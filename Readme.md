@@ -1,6 +1,6 @@
 ## Creating Your First Flutter application In VsCode 🚀🚀 this should be fast and interesting !!
-
-### Flutter  Installation on windows 10
+![img](https://i.imgur.com/ZXyIiGX.png)
+## Flutter  Installation on windows 10
 
  ## Download Flutter SDK.
  * [Download](https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.20.4-stable.zip) SDK.
