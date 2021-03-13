@@ -28,9 +28,9 @@
 
 ![img](https://i.imgur.com/FCwOsIa.png).
 
- * Write the name of your project and  hit the enter key boom! 💥💣 We have our flutter boiler plate.
+ * Write the name of your project and  hit the enter key! 💥💣 We have our flutter first app running.
   * cd to the project you created
-  * launch the app by the command ```flutter run.```
+  * launch the app by the command ```flutter run.``` 
 
 
 🤗🎉🎉🎉🎉🎉 Great!! we  created  our first flutter app.
